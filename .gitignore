@@ -1,0 +1,9 @@
+*.o
+*.a
+bliss
+bin/*
+!bin/.gitkeep
+data/*
+!data/citeseer/
+*.png
+.vscode
